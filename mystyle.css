@@ -14,3 +14,7 @@ body {
 .imgOne {
   border: 5px solid #555;
 }
+
+#grad {
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
