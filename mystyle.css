@@ -1,8 +1,12 @@
 body {
   margin: 25px;
-  background-color: rgb(124 ,185, 232);
   font-family: arial, sans-serif;
   font-size: 14px;
+  background-image: url('car1.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .CARIMAGEONE{
   
