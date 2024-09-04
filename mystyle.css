@@ -39,3 +39,19 @@ a:link, a:visited {
   text-decoration: none;
   display: inline-block;
 }
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p1 {
+  text_align: center;
+}
+
+h3 {
+  text-align: center;
+}
