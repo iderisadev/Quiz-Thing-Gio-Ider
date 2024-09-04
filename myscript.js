@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $("#show").click(function(){
-    $("p").toggle();
+  $("h2").click(function(){
+    $("#right").css("color", "green");
   });
 });
